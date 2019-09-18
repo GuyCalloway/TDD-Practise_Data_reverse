@@ -1,3 +1,3 @@
 def data_reverse(array)
-    return array
+    return array.reverse
 end
